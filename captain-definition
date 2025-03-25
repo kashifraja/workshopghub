@@ -1,6 +1,9 @@
-captainVersion: 1.0.0
-image: my-image
-dockerfilePath: Dockerfile
-environment:
-  NODE_ENV: production
-  PORT: 3000
+{
+  "captainVersion": "1.0.0",
+  "image": "my-image",
+  "dockerfilePath": "Dockerfile",
+  "environment": {
+    "NODE_ENV": "production",
+    "PORT": 3000
+  }
+}
