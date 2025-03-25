@@ -1,0 +1,20 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/add-mechanic": "pages/add-mechanic.html",
+  "/api/jobTypes": "pages/api/jobTypes.js",
+  "/": "pages/index.html",
+  "/jobtype": "pages/jobtype.html",
+  "/auth/login": "pages/auth/login.html",
+  "/auth/signup": "pages/auth/signup.html",
+  "/repairlist": "pages/repairlist.html",
+  "/settings": "pages/settings.html",
+  "/record": "pages/record.html",
+  "/reports": "pages/reports.html",
+  "/signout": "pages/signout.html",
+  "/mechaniclist": "pages/mechaniclist.html",
+  "/users": "pages/users.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
