@@ -1,0 +1,7 @@
+captainVersion: 1.0.0
+services:
+  kashworkshop:
+    image: my-image
+    environment:
+      NODE_ENV: production
+      PORT: 3000
